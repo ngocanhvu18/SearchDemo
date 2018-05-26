@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var students = ["Ngoc Anh", "Nam", "Dương", "Phú", "Luyện", "Cường"]
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

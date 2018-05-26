@@ -13,6 +13,7 @@
 		2F4BDB6820B9087A00332E85 /* SearchDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2F4BDB6620B9087A00332E85 /* SearchDemo.xcdatamodeld */; };
 		2F4BDB6A20B9087A00332E85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F4BDB6920B9087A00332E85 /* Assets.xcassets */; };
 		2F4BDB6D20B9087A00332E85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F4BDB6B20B9087A00332E85 /* LaunchScreen.storyboard */; };
+		2F4BDB7520B9091800332E85 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4BDB7420B9091800332E85 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2F4BDB6920B9087A00332E85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F4BDB6C20B9087A00332E85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F4BDB6E20B9087A00332E85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F4BDB7420B9091800332E85 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2F4BDB5F20B9087A00332E85 /* AppDelegate.swift */,
 				2F4BDB6120B9087A00332E85 /* ViewController.swift */,
 				2F4BDB6320B9087A00332E85 /* Main.storyboard */,
+				2F4BDB7420B9091800332E85 /* TableViewController.swift */,
 				2F4BDB6920B9087A00332E85 /* Assets.xcassets */,
 				2F4BDB6B20B9087A00332E85 /* LaunchScreen.storyboard */,
 				2F4BDB6E20B9087A00332E85 /* Info.plist */,
@@ -142,6 +145,7 @@
 				2F4BDB6820B9087A00332E85 /* SearchDemo.xcdatamodeld in Sources */,
 				2F4BDB6220B9087A00332E85 /* ViewController.swift in Sources */,
 				2F4BDB6020B9087A00332E85 /* AppDelegate.swift in Sources */,
+				2F4BDB7520B9091800332E85 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
